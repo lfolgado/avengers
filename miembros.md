@@ -17,3 +17,4 @@
 * Wasp
 * Antman
 * Capitán Marvel
+* Nick Fury
